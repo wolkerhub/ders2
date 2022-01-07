@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.AssemblyInfo.cs
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\firstOne\wolker\bin\Debug\net6.0\wolker.exe
+C:\Users\Admin\source\repos\firstOne\wolker\bin\Debug\net6.0\wolker.deps.json
+C:\Users\Admin\source\repos\firstOne\wolker\bin\Debug\net6.0\wolker.runtimeconfig.json
+C:\Users\Admin\source\repos\firstOne\wolker\bin\Debug\net6.0\wolker.dll
+C:\Users\Admin\source\repos\firstOne\wolker\bin\Debug\net6.0\ref\wolker.dll
+C:\Users\Admin\source\repos\firstOne\wolker\bin\Debug\net6.0\wolker.pdb
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.dll
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\ref\wolker.dll
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.pdb
+C:\Users\Admin\source\repos\firstOne\wolker\obj\Debug\net6.0\wolker.genruntimeconfig.cache
